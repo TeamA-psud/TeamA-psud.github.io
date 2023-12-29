@@ -3,11 +3,11 @@ import { RiShoppingBagLine, RiCarLine } from 'react-icons/ri'
 import { IoFastFoodOutline } from 'react-icons/io5'
 
 const siteMetadata = {
-  title: 'Best Nextjs Tailwind Portfolio',
+  title: 'Thileli TOURSAL Portfolio',
   description:
     'This is where you can learn about me and my work. I am a full stack developer and I love to build things.',
-  author: 'Curtis Warcup',
-  authorHeadline: 'Full Stack Developer, amateur pizza critic 🍕',
+  author: 'Thileli TOURSAL',
+  authorHeadline: 'IT Business Analyst',
   authorAbout:
     "Hi, I'm Curtis, a full stack developer. I created this to help my mom create a website for all her crazy business ideas. I hope you like it!",
   authorAboutExtended:
